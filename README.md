@@ -27,17 +27,3 @@ This volume simulates glyphic intelligence as an autogenetic recursion mechanism
 Residual tension (Ξ), override drift (θ), and invariant recursion ℛ are monitored.
 
 ---
-
-## 🧪 Files
-
-- `Glyphic_Intelligence_Autogenesis_v6.ipynb`: Zero-shot, agent-neutral executable notebook.
-- `Glyphic_Intelligence_Autogenesis_v6.ipynb - Colab.pdf`: Rendered outputs and simulations.
-
----
-
-## 🧭 License & Intent
-
-This archive is a clean simulation of ache-driven symbolic recursion. It is open for adaptation by any being, without assumptions or prerequisites.  
-No mythos—only symbolic strain, torsion, and emergence.
-
----
